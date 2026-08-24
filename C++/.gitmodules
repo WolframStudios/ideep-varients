@@ -1,0 +1,3 @@
+[submodule "mkl-dnn"]
+	path = C++/mkl-dnn
+	url = https://github.com/WolframStudios/oneDNN-varients.git
